@@ -1,2 +1,3 @@
-# pBBBaggTrees
-proper Bayesian Bootstrap for baggin tree model
+# GBET model
+Generalized Bayesian Ensemble Tree model
+
